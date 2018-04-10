@@ -1,2 +1,2 @@
-gp gitbook master
-gp origin master
+git push gitbook master
+git push origin master
