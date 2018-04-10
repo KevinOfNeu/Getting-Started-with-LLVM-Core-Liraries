@@ -1,5 +1,4 @@
 # LLVM 核心入门指南
-=============
 
 本书是 `Gettting Started with LLVM Core Libraries` 译本。
 
