@@ -1,0 +1,12 @@
+{
+    "plugins": ["ga", "youtube", "bulk-redirect"],
+    "pluginsConfig": {
+        "ga": {
+            "token": ""
+        },
+        "bulk-redirect": {
+            "basepath": "/",
+            "redirectsFile": "redirects.json"
+        }
+    }
+}
